@@ -8,3 +8,12 @@ I conducted an exploratory analysis of open-ended survey responses from colleagu
 * This project was implemented in R using `tidyverse` and `ggplot2` for data processing and visualization, `tidytext` and `tm` for text mining, `wordcloud` for word frequency visualization, and `topicmodels` for topic extraction.
 
 * Results indicate that descriptive analytics dominates across sectors, with the majority of respondents reporting its use as their primary form of analysis, highlighting a shared focus on summarizing and understanding existing data.
+
+# Results
+
+<img width="613" height="384" alt="Screen Shot 2025-09-01 at 4 22 43 PM" src="https://github.com/user-attachments/assets/7756e5b7-50b1-4013-b40d-996eb335671e" /><br>
+Figure 1. Frequency of analysis tyes in different sectors<br><br>
+<img width="1387" height="405" alt="Screen Shot 2025-09-01 at 4 36 00 PM" src="https://github.com/user-attachments/assets/a528688f-b36e-4834-aa8b-82211cd437f4" /><br>
+Figure 2. Frequency of analysis tyes in different Countries<br>
+
+
