@@ -12,8 +12,8 @@ I conducted an exploratory analysis of open-ended survey responses from colleagu
 # Results
 
 <img width="613" height="384" alt="Screen Shot 2025-09-01 at 4 22 43 PM" src="https://github.com/user-attachments/assets/7756e5b7-50b1-4013-b40d-996eb335671e" /><br><br>
-Figure 1. Frequency of analysis tyes in different sectors.<br><br>
+Figure 1. Frequency of analysis types by sector <br><br>
 <img width="1387" height="405" alt="Screen Shot 2025-09-01 at 4 36 00 PM" src="https://github.com/user-attachments/assets/a528688f-b36e-4834-aa8b-82211cd437f4" /><br><br>
-Figure 2. Frequency of analysis types by Country.<br>
+Figure 2. Frequency of analysis types by country<br>
 
 
